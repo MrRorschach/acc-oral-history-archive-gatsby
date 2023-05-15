@@ -14,7 +14,7 @@ const FeatureGrid = ({ gridItems }) => (
                 display: "inline-block",
               }}
             >
-              <iframe src={item.iframeurl} title={item.text} width="240" height="180"></iframe>
+              <iframe width="240" height="140" src={item.iframeurl} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               {/* <PreviewCompatibleImage imageInfo={item} /> */}
             </div>
           </div>
