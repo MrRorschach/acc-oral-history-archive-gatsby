@@ -14,7 +14,8 @@ const FeatureGrid = ({ gridItems }) => (
                 display: "inline-block",
               }}
             >
-              <PreviewCompatibleImage imageInfo={item} />
+              <iframe src={item.iframeurl} title={item.text} width="240" height="180"></iframe>
+              {/* <PreviewCompatibleImage imageInfo={item} /> */}
             </div>
           </div>
           <p>{item.text}</p>
@@ -28,6 +29,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      iframeurl: PropTypes.string,
       text: PropTypes.string,
     })
   ),
