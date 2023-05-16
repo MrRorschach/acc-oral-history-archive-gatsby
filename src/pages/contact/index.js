@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1 style={{color:"white"}}>Contact</h1>
               <form
                 name="contact"
                 method="post"
@@ -57,7 +57,7 @@ export default class Index extends React.Component {
                   </label>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"name"}>
+                  <label className="label" htmlFor={"name"} style={{color:"white"}}>
                     Your name
                   </label>
                   <div className="control">
@@ -72,7 +72,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"email"}>
+                  <label className="label" htmlFor={"email"} style={{color:"white"}}>
                     Email
                   </label>
                   <div className="control">
@@ -87,7 +87,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"message"}>
+                  <label className="label" htmlFor={"message"} style={{color:"white"}}>
                     Message
                   </label>
                   <div className="control">
