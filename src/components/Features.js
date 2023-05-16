@@ -16,10 +16,8 @@ const FeatureGrid = ({ gridItems }) => (
             >
               <PreviewCompatibleImage imageInfo={item} />
             </div>
-          </div>
-          <iframe width="240" height="140" src={item.iframeurl} title="YouTube video player" frameborder="0" allow="encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-          <p>{item.iframeurl}</p>
           <p>{item.text}</p>
+          </div>
         </section>
       </div>
     ))}
