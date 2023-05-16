@@ -138,6 +138,7 @@ export const pageQuery = graphql`
                 gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
               }
             }
+            iframeurl
             text
           }
           heading
