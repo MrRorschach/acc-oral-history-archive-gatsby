@@ -10,11 +10,11 @@ const FeatureGrid = ({ gridItems }) => (
           <div className="has-text-centered">
             <div
               style={{
-                width: "480px",
+                width: "410px",
                 display: "inline-block",
               }}
             >
-            <iframe width="480" height="280" src={item.iframeurl} title="YouTube video player" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+            <iframe onLoad={console.log("Loaded")} width="410" height="240" src={item.iframeurl} title="YouTube video player" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen frameBorder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"></iframe>
             </div>
           <p>{item.text}</p>
           </div>
