@@ -6,7 +6,22 @@ heading: Preserving the History of Austin's Community College
 subheading: Preserving the History of Austin's Community College
 mainpitch:
   title: Intro
-  description: Information about this project
+  description: The Austin Community College (ACC) Oral History Archive stands as a
+    remarkable testament to the educational legacy and community impact of this
+    esteemed institution. Spanning several decades, this rich and diverse
+    collection encapsulates the experiences, triumphs, and challenges faced by
+    students, faculty, staff, and members of the wider community who have been
+    touched by ACC's profound influence. Through meticulously preserved and
+    transcribed interviews, the archive illuminates the evolution of ACC,
+    chronicling its humble beginnings as a small community college to its
+    present-day status as a renowned educational hub. The voices within the
+    archive convey stories of resilience, personal growth, and social change,
+    capturing the spirit of a dynamic learning environment that fosters
+    inclusivity and academic excellence. From anecdotes of pioneering faculty
+    members to narratives of students overcoming adversity, the ACC Oral History
+    Archive stands as a treasured resource, offering invaluable insights into
+    the transformative power of education within the vibrant tapestry of
+    Austin's diverse community.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
