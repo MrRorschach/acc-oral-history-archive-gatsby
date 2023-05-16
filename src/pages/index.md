@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ACC Oral History Archive
-image: /img/home-jumbotron.jpg
+image: /img/accbackgroundoralhistory.jpg
 heading: Preserving the History of Austin's Community College
 subheading: Preserving the History of Austin's Community College
 mainpitch:
