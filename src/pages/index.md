@@ -6,8 +6,7 @@ heading: Preserving the History of Austin's Community College
 subheading: Preserving the History of Austin's Community College
 mainpitch:
   title: Intro
-  description:
-    The Austin Community College (ACC) Oral History Archive stands as a
+  description: The Austin Community College (ACC) Oral History Archive stands as a
     remarkable testament to the educational legacy and community impact of this
     esteemed institution. Spanning several decades, this rich and diverse
     collection encapsulates the experiences, triumphs, and challenges faced by
@@ -31,12 +30,7 @@ intro:
   blurbs:
     - image: /img/coffee.png
       iframeurl: https://www.youtube.com/embed/kZ8U8q4uK_g
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Kinslow Rhodes Interview
     - image: /img/coffee-gear.png
       iframeurl: https://www.youtube.com/embed/kZ8U8q4uK_g
       text: >
