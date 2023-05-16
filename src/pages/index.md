@@ -6,7 +6,8 @@ heading: Preserving the History of Austin's Community College
 subheading: Preserving the History of Austin's Community College
 mainpitch:
   title: Intro
-  description: The Austin Community College (ACC) Oral History Archive stands as a
+  description:
+    The Austin Community College (ACC) Oral History Archive stands as a
     remarkable testament to the educational legacy and community impact of this
     esteemed institution. Spanning several decades, this rich and diverse
     collection encapsulates the experiences, triumphs, and challenges faced by
@@ -59,8 +60,6 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-    - image: /img/blog-index.jpg
-      text: Testing 2
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
