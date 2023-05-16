@@ -1,19 +1,19 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/logo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
 
   return (
     <nav
-      className="navbar is-transparent"
+      className="navbar"
       role="navigation"
       aria-label="main-navigation"
     >
       <div className="container">
-        <div className="navbar-brand">
+        <div className="navbar-brand has-background-black has-text-white-ter">
           <Link to="/" className="navbar-item" title="Logo">
             <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
           </Link>
@@ -39,11 +39,6 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/products">
-              Products
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/blog">
               Blog
             </Link>
@@ -53,11 +48,7 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
-            </Link>
-            </li>
+
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
