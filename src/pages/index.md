@@ -42,6 +42,12 @@ intro:
     - image: /img/meeting-space.png
       iframeurl: https://www.youtube.com/embed/qj8JjCj6NGA
       text: Dr. Kinslow and Dr. Rhodes discuss the Highland Campus Phase 2
+    - text: Cary Sowell on AISD Board being ACC's Board
+      iframeurl: https://www.youtube.com/embed/UsfdXUIyuqM
+      image: /img/apple-touch-icon.png
+    - text: Dr. Kinslow and Dr. Rhodes discuss ACC's Health Sciences
+      iframeurl: https://www.youtube.com/embed/VKs_8gWOOa8
+      image: /img/apple-touch-icon.png
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
