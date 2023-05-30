@@ -6,7 +6,8 @@ heading: Preserving the History of Austin's Community College
 subheading: Preserving the History of Austin's Community College
 mainpitch:
   title: Intro
-  description: The Austin Community College (ACC) Oral History Archive stands as a
+  description:
+    The Austin Community College (ACC) Oral History Archive stands as a
     remarkable testament to the educational legacy and community impact of this
     esteemed institution. Spanning several decades, this rich and diverse
     collection encapsulates the experiences, triumphs, and challenges faced by
@@ -28,19 +29,17 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      iframeurl: https://www.youtube.com/embed/NYIPIa6TjX4
-      text: President Kinslow and President Rhodes discuss ACC's early years with
+    - iframeurl: https://www.youtube.com/embed/NYIPIa6TjX4
+      text:
+        President Kinslow and President Rhodes discuss ACC's early years with
         a  modest budget
-    - image: /img/coffee-gear.png
-      iframeurl: https://www.youtube.com/embed/NmIWhTvjTwU
-      text: Terry Thomas discusses bond and annexation campaigns at ACC in the early
+    - iframeurl: https://www.youtube.com/embed/NmIWhTvjTwU
+      text:
+        Terry Thomas discusses bond and annexation campaigns at ACC in the early
         2000s
-    - image: /img/tutorials.png
-      iframeurl: https://www.youtube.com/embed/BZfVYJXB5hU
+    - iframeurl: https://www.youtube.com/embed/BZfVYJXB5hU
       text: Richard Fonte On ACC's Workforce Development
-    - image: /img/meeting-space.png
-      iframeurl: https://www.youtube.com/embed/qj8JjCj6NGA
+    - iframeurl: https://www.youtube.com/embed/qj8JjCj6NGA
       text: Dr. Kinslow and Dr. Rhodes discuss the Highland Campus Phase 2
     - text: Cary Sowell on AISD Board being ACC's Board
       iframeurl: https://www.youtube.com/embed/UsfdXUIyuqM
